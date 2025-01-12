@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoListApp</string>
+    <string name="enter_task">Enter task</string>
+    <string name="add">Add</string>
+    <string name="enterTask">Enter task</string>
+    <string name="addd">Add</string>
+    <string name="save">Save</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="enter_new_task">Enter new task</string>
+</resources>
